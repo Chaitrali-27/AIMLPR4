@@ -1,0 +1,3 @@
+Model,Without scaling,With scaling
+SVM,0.9298,0.9825
+KNN,0.9123,0.9561
